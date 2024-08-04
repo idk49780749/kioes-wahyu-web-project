@@ -398,7 +398,7 @@ footer {
         padding-top: 7%;
     }
     .button-value:nth-child(1) {
-        padding-bottom: 30px;
+        /**padding-bottom: 30px;**/
         height: 90px;
     }
     .footer-col {

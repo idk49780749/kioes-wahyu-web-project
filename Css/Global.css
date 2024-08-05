@@ -134,8 +134,7 @@ nav {
     border-radius: 15px;
     padding: 10px 15px 10px 15px;
     margin-right: 60%;
-    border-right: 2px var(--fourth-color) solid;
-    border-bottom: 2px var(--fourth-color) solid;
+    box-shadow: 5px 5px 0 var(--fourth-color);
 }
 .tbl-home a {
     color: var(--fourth-color);
